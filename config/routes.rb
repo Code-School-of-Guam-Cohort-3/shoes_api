@@ -17,9 +17,9 @@ end
 # 'model'/mimic some real world object
 
 # shoe
-# - name
-# - size
-# - color
+# - name - string
+# - size - integer
+# - color - string
 
 
 
