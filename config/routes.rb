@@ -7,4 +7,25 @@ Rails.application.routes.draw do
 
   # Defines the root path route ("/")
   # root "posts#index"
+  get "/shoes" => "shoes#one_shoe"
 end
+
+
+# MVC Framework
+# Model
+
+# 'model'/mimic some real world object
+
+# shoe
+# - name
+# - size
+# - color
+
+
+
+
+# View - not in api mode
+
+
+
+# Controller
